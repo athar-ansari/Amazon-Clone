@@ -11,4 +11,8 @@ Explore my "Amazon Clone Using HTML &amp; CSS" GitHub Project! . This repository
 [Weather website](https://athar-ansari.github.io/Amazon-Clone/)
 
 ## 👓 Preview
-https://github.com/athar-ansari/Amazon-Clone/assets/118714083/642af120-c2a9-4b1f-9c54-dd06814c8f44
+<video controls autoplay>
+  <source src="https://github.com/athar-ansari/Amazon-Clone/assets/118714083/642af120-c2a9-4b1f-9c54-dd06814c8f44.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
