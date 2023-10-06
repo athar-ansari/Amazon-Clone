@@ -11,4 +11,4 @@ Explore my "Amazon Clone Using HTML &amp; CSS" GitHub Project! . This repository
 [Weather website](https://athar-ansari.github.io/Amazon-Clone/)
 
 ## Preview
-https://github.com/athar-ansari/Amazon-Clone/assets/118714083/2b1c2c9a-ff6e-4a0d-9b9a-df97a6ff6a63
+https://github.com/athar-ansari/Amazon-Clone/assets/118714083/642af120-c2a9-4b1f-9c54-dd06814c8f44
