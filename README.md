@@ -11,6 +11,5 @@ Explore my "Amazon Clone Using HTML &amp; CSS" GitHub Project! . This repository
 [Amazon-Clone](https://athar-ansari.github.io/Amazon-Clone/)
 
 ## 👓 Preview
-
-https://github.com/athar-ansari/Amazon-Clone/assets/118714083/642af120-c2a9-4b1f-9c54-dd06814c8f44
+(https://github.com/athar-ansari/Amazon-Clone/assets/118714083/30d04c2f-584a-4c11-8dde-d9d4a6d561cc)
 
